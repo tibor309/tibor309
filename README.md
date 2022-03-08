@@ -1,6 +1,6 @@
 ## Hi i'm Tibor
-![](https://github-readme-stats.vercel.app/api?username=tibor309&theme=react&hide_border=true&include_all_commits=false&count_private=false&show_icons=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tibor309&theme=react&hide_border=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=tibor309&theme=react&hide_border=true&include_all_commits=false&count_private=false&hide_rank=true)
 <br/>
 
 I like space, science, tech and music. I'm not really an artist or programmer, but i'm trying my best! I'm a computer scientist/mechanic, i'm better at software than hardware. Yes, i'm a furry. *(go cry about it)* Here's my [refsheet](https://ref.st/tibor). If you need anything, you can dm me!
