@@ -1,4 +1,4 @@
-## Hi i'm Tibor
+## :wave: Hi i'm Tibor
 I like space, science, tech and music. I'm not really an artist or programmer, but i'm trying my best! I'm a computer scientist/mechanic, i'm better at software than hardware. Yes, i'm a furry. *(go cry about it)* Here's my [refsheet](https://ref.st/tibor). If you need anything, you can dm me!
 
 
@@ -15,9 +15,9 @@ I use this build to code, game, and to talk with my friends. I know it's not pow
 ```text
 tibor@TiborPC
 ----------------- 
-OS: Windows 10 Pro x64 (ReviOS)
-Kernel:
-Shell:
+OS: Windows 10 Pro x86_64 (ReviOS)
+Kernel: 10.0.19044
+Shell: bash 4.4.23
 DE: Aero
 Terminal: Windows Terminal
 CPU: Intel Pentium G4560 (4) @ 3.50GHz
@@ -64,7 +64,7 @@ Memory: 7845MiB
 
 ## GitHub stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tibor309&theme=react&hide_border=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api?username=tibor309&theme=react&hide_border=true&include_all_commits=false&count_private=false&hide_rank=true)
+![](https://github-readme-stats.vercel.app/api?username=tibor309&theme=react&hide_border=true&include_all_commits=false&count_private=false&hide_rank=true&show_icons=true)
 <br/>
 </details>
 
