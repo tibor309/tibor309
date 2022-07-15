@@ -1,13 +1,12 @@
 ## 👋 Hi i'm Tibor
-I like space, science, tech and music. I'm not really an artist or programmer, but i'm trying my best! I'm a computer scientist/mechanic, i'm better at software than hardware. Yes, i'm a furry. *(go cry about it)* Here's my [refsheet](https://ref.st/tibor). If you need anything, you can dm me!
+I'm not really an artist or programmer, but i'm trying my best! I'm a computer scientist/mechanic, i'm better at software than hardware. I don't have many projects on github because i don have the knowlage and the will to start a bunch of them. I like to tinker with tech, and linux. Most of the time i'm online so if you wanna have a chat go ahead, i don't bite! And yes, i'm a furry! If you don't like it, thats your problem and not mine!
 
 
-
-### Socials
-[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)][twitter]
-[![Steam Profile](https://img.shields.io/badge/Steam-%23000000?style=flat&logo=steam)][steam]
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)][discord]
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white)][spotify]
+### Socials and links
+[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
+[![Steam Profile](https://img.shields.io/badge/Steam-%23000000?style=for-the-badge&logo=steam)][steam]
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)][discord]
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)][spotify]
 [![](https://visitcount.itsvg.in/api?id=tibor309&icon=1&color=0)]()
 
 
@@ -18,7 +17,7 @@ I like space, science, tech and music. I'm not really an artist or programmer, b
 
 <details>
 <summary>
-  More
+  More stuff
 </summary>
 
 ## 🔥 GitHub stats
@@ -28,10 +27,10 @@ I like space, science, tech and music. I'm not really an artist or programmer, b
   
 ## 🖥️ My configs  
 ### Pc config
-I use this build to code, game, and to talk with my friends. I know it's not powerful, but it's enough for me.
+I use this build to code, game, and to talk with my friends. Everything basicly. I know it's not powerful, but it's enough for me.
 
 ```text
- lllllllllllllll   lllllllllllllll   tibor@TIBORPC
+ lllllllllllllll   lllllllllllllll   tibor@TiborPC
  lllllllllllllll   lllllllllllllll   -------------
  lllllllllllllll   lllllllllllllll   OS: Windows 11 Pro x64 (ReviOS 11 22.04)
  lllllllllllllll   lllllllllllllll   Host: MSI MS-7996
@@ -51,26 +50,29 @@ I use this build to code, game, and to talk with my friends. I know it's not pow
   
   
 ### Laptop config
-And i use this build for my school work, code, and everything.
+And i use this build for my school work, and to do stuff on the go. *yes i use ubuntu*
 
 ```text
-        `osssssssssssssssssssso`           tibor@TIBORLAPTOP 
-       .osssssssssssssssssssssso.          ----------------- 
-      .+oooooooooooooooooooooooo+.         OS: Zorin OS 16.1 x86_64 
-                                           Host: Latitude E5520 01 
-                                           Kernel: 5.13.0-41-generic 
-  `::::::::::::::::::::::.         .:`     Packages: 2087 (dpkg), 20 (flatpak)
- `+ssssssssssssssssss+:.`     `.:+ssso`    Shell: bash 5.0.17
-.ossssssssssssssso/.       `-+ossssssso.   Resolution: 1366x768 
-ssssssssssssso/-`      `-/osssssssssssss   DE: GNOME
-.ossssssso/-`      .-/ossssssssssssssso.   WM: Mutter 
- `+sss+:.      `.:+ssssssssssssssssss+`    WM Theme: ZorinPurple-Dark
-  `:.         .::::::::::::::::::::::`     Theme: ZorinPurple-Dark [GTK2/3]
-                                           Icons: ZorinPurple-Dark [GTK2/3]
-                                           Terminal: gnome-terminal
-      .+oooooooooooooooooooooooo+.         CPU: Intel i3-2330M (4) @ 2.200GHz
-       -osssssssssssssssssssssso-          GPU: Intel 2nd Generation Core Processor
-        `osssssssssssssssssssso`           Memory: 7845MiB
+            .-/+oossssoo+/-.               tibor@TiborLaptop 
+        `:+ssssssssssssssssss+:`           ----------------- 
+      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 22.04 LTS x86_64 
+    .ossssssssssssssssssdMMMNysssso.       Host: Latitude E5520 01 
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 5.15.0-41-generic 
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Packages: 2004 (dpkg), 13 (snap) 
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Shell: bash 5.1.16 
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Resolution: 1366x768 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   DE: GNOME 42.2 
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter 
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM Theme: Adwaita 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Theme: Yaru-blue-dark [GTK2/3] 
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Icons: Yaru-blue [GTK2/3] 
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Terminal: gnome-terminal 
+  +sssssssssdmydMMMMMMMMddddyssssssss+     CPU: Intel i3-2330M (4) @ 2.200GHz 
+   /ssssssssssshdmNNNNmyNMMMMhssssss/      GPU: Intel 2nd Generation Core Proce 
+    .ossssssssssssssssssdMMMNysssso.       Memory: 7845MiB 
+      -+sssssssssssssssssyyyssss+-
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.
 ```  
 
 </details>
