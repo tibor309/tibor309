@@ -7,11 +7,11 @@ I'm not really an artist or programmer, but i'm trying my best! I'm a computer s
 [![Steam Profile](https://img.shields.io/badge/Steam-%23000000?style=for-the-badge&logo=steam)][steam]
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)][discord]
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)][spotify]
-[![](https://visitcount.itsvg.in/api?id=tibor309&icon=1&color=0)]()
+[![Refsheet](https://img.shields.io/badge/Refsheet-1CBBAC?&style=for-the-badge&logo=refsheet)][ref]
 
 
 ### Languages and tools i use
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tibor309&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact) | [<img align="left" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>][vscode] [<img align="left" width="24" src="http://i.imgur.com/5BFecvA.png"/>][py] [<img align="left" width="24" src="https://wasimaster.gallerycdn.vsassets.io/extensions/wasimaster/discord-py-snippets/1.5.2/1633501246102/Microsoft.VisualStudio.Services.Icons.Default"/>][dpy] [<img align="left" width="24" src="https://discord.js.org/static/djs_logo.png"/>][djs] [<img align="left" width="24" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png"/>][terminal] [<img align="left" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png"/>][linux] [<img align="left" width="24" src="https://portapps.io/img/logo.png"/>][portapps]
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tibor309&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact) | [<img align="left" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>][vscode] [<img align="left" width="24" src="http://i.imgur.com/5BFecvA.png"/>][py] [<img align="left" width="24" src="https://wasimaster.gallerycdn.vsassets.io/extensions/wasimaster/discord-py-snippets/1.5.2/1633501246102/Microsoft.VisualStudio.Services.Icons.Default"/>][dpy] [<img align="left" width="24" src="https://discord.js.org/static/djs_logo.png"/>][djs] [<img align="left" width="24" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png"/>][terminal] [<img align="left" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png"/>][linux]
 ------------- | -------------
 
 
@@ -88,6 +88,7 @@ links:
 [steam]: https://steamcommunity.com/id/tibor309
 [discord]: https://discord.com/channels/@me/711906232956616745
 [spotify]: https://open.spotify.com/user/11147307035?si=01e35e0ff9ed4370
+[ref]: https://refsheet.net/Tibor
 
 [vscode]: https://code.visualstudio.com/
 [py]: https://www.python.org/
@@ -95,4 +96,3 @@ links:
 [djs]: https://discord.js.org/
 [terminal]: https://github.com/microsoft/terminal
 [linux]: https://hu.wikipedia.org/wiki/Linux
-[portapps]: https://portapps.io/
