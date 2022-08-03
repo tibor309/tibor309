@@ -11,7 +11,7 @@ I'm not really an artist or programmer, but i'm trying my best! I'm a computer s
 
 
 ### Languages and tools i use
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tibor309&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact) | [<img align="left" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>][vscode] [<img align="left" width="24" src="http://i.imgur.com/5BFecvA.png"/>][py] [<img align="left" width="24" src="https://wasimaster.gallerycdn.vsassets.io/extensions/wasimaster/discord-py-snippets/1.5.2/1633501246102/Microsoft.VisualStudio.Services.Icons.Default"/>][dpy] [<img align="left" width="24" src="https://discord.js.org/static/djs_logo.png"/>][djs] [<img align="left" width="24" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png"/>][terminal] [<img align="left" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png"/>][linux]
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tibor309&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact) | [<img align="left" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>][vscode] [<img align="left" width="24" src="http://i.imgur.com/5BFecvA.png"/>][py] [<img align="left" width="24" src="https://wasimaster.gallerycdn.vsassets.io/extensions/wasimaster/discord-py-snippets/1.5.2/1633501246102/Microsoft.VisualStudio.Services.Icons.Default"/>][dpy] [<img align="left" width="24" src="https://discord.js.org/static/djs_logo.png"/>][djs] [<img align="left" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png"/>][linux]
 ------------- | -------------
 
 
@@ -50,29 +50,28 @@ I use this build to code, game, and to talk with my friends. Everything basicly.
   
   
 ### Laptop config
-And i use this build for my school work, and to do stuff on the go. *yes i use ubuntu*
+And i use this build for my school work, and to do stuff on the go.
 
 ```text
-            .-/+oossssoo+/-.               tibor@TiborLaptop 
-        `:+ssssssssssssssssss+:`           ----------------- 
-      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 22.04 LTS x86_64 
-    .ossssssssssssssssssdMMMNysssso.       Host: Latitude E5520 01 
-   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 5.15.0-41-generic 
-  +ssssssssshmydMMMMMMMNddddyssssssss+     Packages: 2004 (dpkg), 13 (snap) 
- /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Shell: bash 5.1.16 
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Resolution: 1366x768 
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   DE: GNOME 42.2 
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter 
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM Theme: Adwaita 
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   Theme: Yaru-blue-dark [GTK2/3] 
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Icons: Yaru-blue [GTK2/3] 
- /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Terminal: gnome-terminal 
-  +sssssssssdmydMMMMMMMMddddyssssssss+     CPU: Intel i3-2330M (4) @ 2.200GHz 
-   /ssssssssssshdmNNNNmyNMMMMhssssss/      GPU: Intel 2nd Generation Core Proce 
-    .ossssssssssssssssssdMMMNysssso.       Memory: 7845MiB 
-      -+sssssssssssssssssyyyssss+-
-        `:+ssssssssssssssssss+:`
-            .-/+oossssoo+/-.
+             .',;::::;,'.                tibor@TIBORLAPTOP
+         .';:cccccccccccc:;,.            ----------------- 
+      .;cccccccccccccccccccccc;.         OS: Fedora Linux 36 (Workstation Edition) x86_64 
+    .:cccccccccccccccccccccccccc:.       Host: Latitude E5520 01 
+  .;ccccccccccccc;.:dddl:.;ccccccc;.     Kernel: 5.18.13-200.fc36.x86_64 
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:.    Packages: 1910 (rpm), 13 (flatpak) 
+.:ccccccccccccc;KMMc;cc;xMMc:ccccccc:.   Shell: bash 5.1.16 
+,cccccccccccccc;MMM.;cc;;WW::cccccccc,   Resolution: 1366x768 
+:cccccccccccccc;MMM.;cccccccccccccccc:   DE: GNOME 42.3.1 
+:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:   WM: Mutter 
+cccccc:0MMKxdd:;MMMkddc.;cccccccccccc;   WM Theme: Adwaita 
+ccccc:XM0';cccc;MMM.;cccccccccccccccc'   Theme: Adwaita [GTK2/3] 
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;    Icons: Adwaita [GTK2/3] 
+ccccc;0MNc.ccc.xMMd:ccccccccccccccc;     Terminal: gnome-terminal 
+cccccc;dNMWXXXWM0::cccccccccccccc:,      CPU: Intel i3-2330M (4) @ 2.200GHz 
+cccccccc;.:odl:.;cccccccccccccc:,.       GPU: Intel 2nd Generation Core Processor Family 
+:cccccccccccccccccccccccccccc:'.         Memory: 7837MiB 
+.:cccccccccccccccccccccc:;,..
+  '::cccccccccccccc::;,.
 ```  
 
 </details>
