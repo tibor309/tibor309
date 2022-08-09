@@ -1,5 +1,5 @@
 ## 👋 Hi i'm Tibor
-I'm not really an artist or programmer, but i'm trying my best! I'm a computer scientist/mechanic, i'm better at software than hardware. I don't have many projects on github because i don have the knowlage and the will to start a bunch of them. I like to tinker with tech, and linux. Most of the time i'm online so if you wanna have a chat go ahead, i don't bite! And yes, i'm a furry! If you don't like it, thats your problem and not mine!
+I'm not really an artist or programmer, but i'm trying my best! I'm a computer scientist/mechanic, i'm better at software than hardware. I don't have many projects on github because i don have the knowlage and the will to start a bunch of them. I like to tinker with tech, and linux. Most of the time i'm online so if you wanna have a chat go ahead, i don't bite! And yes, i'm a furry! If you don't like it, thats your problem and not mine! And if you don't know what i mean, i suggest wikipedia.
 
 
 ### Socials and links
@@ -11,7 +11,7 @@ I'm not really an artist or programmer, but i'm trying my best! I'm a computer s
 
 
 ### Languages and tools i use
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tibor309&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact) | [<img align="left" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>][vscode] [<img align="left" width="24" src="http://i.imgur.com/5BFecvA.png"/>][py] [<img align="left" width="24" src="https://wasimaster.gallerycdn.vsassets.io/extensions/wasimaster/discord-py-snippets/1.5.2/1633501246102/Microsoft.VisualStudio.Services.Icons.Default"/>][dpy] [<img align="left" width="24" src="https://discord.js.org/static/djs_logo.png"/>][djs] [<img align="left" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png"/>][linux]
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tibor309&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact) | [<img align="left" width="24" src="https://storage.googleapis.com/replit/images/1639624946953_10f01364bd4141e691a099115f6fd88b.png"/>][replit] [<img align="left" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>][vscode] [<img align="left" width="24" src="http://i.imgur.com/5BFecvA.png"/>][py] [<img align="left" width="24" src="https://wasimaster.gallerycdn.vsassets.io/extensions/wasimaster/discord-py-snippets/1.5.2/1633501246102/Microsoft.VisualStudio.Services.Icons.Default"/>][dpy] [<img align="left" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png"/>][linux]
 ------------- | -------------
 
 
@@ -30,7 +30,7 @@ I'm not really an artist or programmer, but i'm trying my best! I'm a computer s
 I use this build to code, game, and to talk with my friends. Everything basicly. I know it's not powerful, but it's enough for me.
 
 ```text
- lllllllllllllll   lllllllllllllll   tibor@TiborPC
+ lllllllllllllll   lllllllllllllll   tibor@TIBORPC
  lllllllllllllll   lllllllllllllll   -------------
  lllllllllllllll   lllllllllllllll   OS: Windows 11 Pro x64 (ReviOS 11 22.04)
  lllllllllllllll   lllllllllllllll   Host: MSI MS-7996
@@ -95,3 +95,4 @@ links:
 [djs]: https://discord.js.org/
 [terminal]: https://github.com/microsoft/terminal
 [linux]: https://hu.wikipedia.org/wiki/Linux
+[replit]: https://replit.com
