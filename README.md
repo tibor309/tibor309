@@ -1,6 +1,6 @@
 ## Hi, i'm tibor
 
-I'm a computer scientist, im 21, and trying to learn programming *slowly*. Yes, i'm a furry, but im not a zoo or a weird one. I like messing with tech, and software. Most of the time i'm online so if you wanna have a chat go ahead, i don't bite!
+I'm a computer scientist, im 21, and trying to learn programming *slowly*. Yes, i'm a furry, but im not a zoo or a weird one. I like messing with tech, and software. Most of the time i'm online so if you wanna have a chat go ahead, i don't bite! Also please follow me on mastodon, i wanna leave twitter!
 
 <div id="badges", align="center">
   <a href="https://furry.engineer/@tibor">
@@ -40,7 +40,6 @@ I'm a computer scientist, im 21, and trying to learn programming *slowly*. Yes, 
 It's old, but as long as it works, im happy with it. I mostly play lighter games, so don't experience any big hiccups or laggs.
 
 ```text
-  
  lllllllllllllll   lllllllllllllll  Tibor@TIBOR-PC
  lllllllllllllll   lllllllllllllll  --------------
  lllllllllllllll   lllllllllllllll  OS: Windows 11 Pro [64-bit] (ReviOS 11 22.07)
@@ -56,34 +55,29 @@ It's old, but as long as it works, im happy with it. I mostly play lighter games
  lllllllllllllll   lllllllllllllll  GPU: NVIDIA GeForce GT 730
  lllllllllllllll   lllllllllllllll  Memory: 5.04 GiB / 15.97 GiB (31%)
  lllllllllllllll   lllllllllllllll  Disk (C:): 124 GiB / 222 GiB (56%)
-  
 ```
   
   
   
 ### Laptop
-  This one is really old and slow, so i had to buy a new one. Sadly i can't install linux on it because it has win 11 on it. And if i try it voids the warranty.
+I use this for school, programming, and everything else. The ram may seem not much, but i increased the paging file size, so it's not a problem.
 
 ```text
-             .',;::::;,'.                tibor@tiborlaptop 
-         .';:cccccccccccc:;,.            ----------------- 
-      .;cccccccccccccccccccccc;.         OS: Fedora Linux 36 (Workstation Edition) x86_64 
-    .:cccccccccccccccccccccccccc:.       Host: Latitude E5520 01 
-  .;ccccccccccccc;.:dddl:.;ccccccc;.     Kernel: 5.19.16-200.fc36.x86_64 
- .:ccccccccccccc;OWMKOOXMWd;ccccccc:.    Uptime: 7 hours, 51 mins 
-.:ccccccccccccc;KMMc;cc;xMMc:ccccccc:.   Packages: 2058 (rpm), 38 (flatpak) 
-,cccccccccccccc;MMM.;cc;;WW::cccccccc,   Shell: bash 5.2.2 
-:cccccccccccccc;MMM.;cccccccccccccccc:   Resolution: 1366x768 
-:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:   DE: GNOME 42.5 
-cccccc:0MMKxdd:;MMMkddc.;cccccccccccc;   WM: Mutter 
-ccccc:XM0';cccc;MMM.;cccccccccccccccc'   WM Theme: Adwaita 
-ccccc;MMo;ccccc;MMW.;ccccccccccccccc;    Theme: adw-gtk3-dark [GTK2/3] 
-ccccc;0MNc.ccc.xMMd:ccccccccccccccc;     Icons: Adwaita [GTK2/3] 
-cccccc;dNMWXXXWM0::cccccccccccccc:,      Terminal: gnome-terminal 
-cccccccc;.:odl:.;cccccccccccccc:,.       CPU: Intel i3-2330M (4) @ 2.200GHz 
-:cccccccccccccccccccccccccccc:'.         GPU: Intel 2nd Generation Core Processor Family 
-.:cccccccccccccccccccccc:;,..            Memory: 7839MiB 
-  '::cccccccccccccc::;,.
+ lllllllllllllll   lllllllllllllll  tibor@TIBOR-LAPTOP
+ lllllllllllllll   lllllllllllllll  ------------------
+ lllllllllllllll   lllllllllllllll  OS: Windows 11 Pro [64-bit]
+ lllllllllllllll   lllllllllllllll  Host: LENOVO 82KU
+ lllllllllllllll   lllllllllllllll  Kernel: 10.0.22621.0
+ lllllllllllllll   lllllllllllllll  Motherboard: LENOVO LNVNB161216
+ lllllllllllllll   lllllllllllllll  Uptime: 31 minutes
+                                    Packages: 1 (choco)
+ lllllllllllllll   lllllllllllllll  Shell: PowerShell v5.1.22621.963
+ lllllllllllllll   lllllllllllllll  Resolution: 1920x1080
+ lllllllllllllll   lllllllllllllll  Terminal: Windows Terminal
+ lllllllllllllll   lllllllllllllll  CPU: AMD Ryzen 5 5500U with Radeon Graphics
+ lllllllllllllll   lllllllllllllll  GPU: AMD Radeon(TM) Graphics
+ lllllllllllllll   lllllllllllllll  Memory: 5,55 GiB / 5,85 GiB (94%)
+ lllllllllllllll   lllllllllllllll  Disk (C:): 142 GiB / 236 GiB (60%)
 ```  
 
 </details>
