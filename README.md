@@ -3,6 +3,9 @@
 I'm a computer scientist, im 21, and trying to learn programming *slowly*. Yes, i'm a furry, but im not a zoo or a weird one. I like messing with tech, and software. Most of the time i'm online so if you wanna have a chat go ahead, i don't bite! Also please follow me on mastodon, i wanna leave twitter!
 
 <div id="badges", align="center">
+  <a href="https://replit.com/@Tibor309">
+    <img src="https://img.shields.io/badge/Replit-F26207.svg?style=flat&logo=Replit&logoColor=white" alt="Replit Badge"/>
+  </a>
   <a href="https://furry.engineer/@tibor">
     <img src="https://img.shields.io/badge/Mastodon-5d51e8?style=flat&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
   </a>
