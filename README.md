@@ -21,8 +21,14 @@ I'm a computer scientist, im 21, and trying to learn programming *slowly*. Yes, 
   <a href="https://open.spotify.com/user/11147307035?si=01e35e0ff9ed4370">
     <img src="https://img.shields.io/badge/Spotify-1DB954.svg?style=flat&logo=Spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
+</div>
+
+<div id="badges2", align="center">
+  <a href="https://toyhou.se/tibor">
+    <img src="https://img.shields.io/badge/Toyhouse-008cba?&style=flat&logo=Toyhouse" alt="Toyhouse Badge"/>
+  </a>
   <a href="https://refsheet.net/Tibor">
-    <img src="https://img.shields.io/badge/Refsheet-1dbcad?&style=flat&logo=refsheet" alt="Refsheet Badge"/>
+    <img src="https://img.shields.io/badge/Refsheet-1dbcad?&style=flat&logo=Refsheet" alt="Refsheet Badge"/>
   </a>
 </div>
 
@@ -43,21 +49,21 @@ I'm a computer scientist, im 21, and trying to learn programming *slowly*. Yes, 
 It's old, but as long as it works, im happy with it. I mostly play lighter games, so don't experience any big hiccups or laggs.
 
 ```text
- lllllllllllllll   lllllllllllllll  Tibor@TIBOR-PC
+ lllllllllllllll   lllllllllllllll  tibor@TIBOR-PC
  lllllllllllllll   lllllllllllllll  --------------
- lllllllllllllll   lllllllllllllll  OS: Windows 11 Pro [64-bit] (ReviOS 11 22.07)
+ lllllllllllllll   lllllllllllllll  OS: Windows 11 Pro [64-bit]
  lllllllllllllll   lllllllllllllll  Host: MSI MS-7996
  lllllllllllllll   lllllllllllllll  Kernel: 10.0.22621.0
  lllllllllllllll   lllllllllllllll  Motherboard: MSI H110M PRO-D (MS-7996)
- lllllllllllllll   lllllllllllllll  Uptime: 22 minutes
+ lllllllllllllll   lllllllllllllll  Uptime: 3 hours 10 minutes
                                     Packages: 1 (choco)
- lllllllllllllll   lllllllllllllll  Shell: PowerShell v5.1.22621.169
+ lllllllllllllll   lllllllllllllll  Shell: PowerShell v5.1.22621.963
  lllllllllllllll   lllllllllllllll  Resolution: 1920x1080
  lllllllllllllll   lllllllllllllll  Terminal: Windows Terminal
  lllllllllllllll   lllllllllllllll  CPU: Intel(R) Pentium(R) CPU G4560 @ 3.504GHz
  lllllllllllllll   lllllllllllllll  GPU: NVIDIA GeForce GT 730
- lllllllllllllll   lllllllllllllll  Memory: 5.04 GiB / 15.97 GiB (31%)
- lllllllllllllll   lllllllllllllll  Disk (C:): 124 GiB / 222 GiB (56%)
+ lllllllllllllll   lllllllllllllll  Memory: 6.52 GiB / 15.97 GiB (40%)
+ lllllllllllllll   lllllllllllllll  Disk (C:): 151 GiB / 222 GiB (67%)
 ```
   
   
