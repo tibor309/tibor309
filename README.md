@@ -1,6 +1,6 @@
 ## Hi, i'm tibor
 
-I'm a computer scientist, im 21, and trying to learn programming *slowly*. Yes, i'm a furry, but im not a zoo or a weird one. I like messing with tech, and software. Most of the time i'm online so if you wanna have a chat go ahead, i don't bite! Also please follow me on mastodon, i wanna leave twitter!
+I'm a computer scientist from hungary.  Yes, i'm a furry. Im trying to learn programming and messing with linux and all kinds of tech in my free time. I play a lot of tf2. Most of the time i'm online, if you wanna chat.
 
 <div id="badges", align="center">
   <a href="https://replit.com/@Tibor309">
@@ -36,7 +36,7 @@ I'm a computer scientist, im 21, and trying to learn programming *slowly*. Yes, 
 
 <details>
 <summary>
-  more stuff
+  some more stuff
 </summary>
 
 ### :fire: GitHub stats
@@ -46,8 +46,6 @@ I'm a computer scientist, im 21, and trying to learn programming *slowly*. Yes, 
   
 ### 🖥️ My configs  
 ### Main pc
-It's old, but as long as it works, im happy with it. I mostly play lighter games, so don't experience any big hiccups or laggs.
-
 ```text
  lllllllllllllll   lllllllllllllll  tibor@TIBOR-PC
  lllllllllllllll   lllllllllllllll  --------------
@@ -69,8 +67,6 @@ It's old, but as long as it works, im happy with it. I mostly play lighter games
   
   
 ### Laptop
-I use this for school, programming, and everything else. The ram may seem not much, but i increased the paging file size, so it's not a problem.
-
 ```text
  lllllllllllllll   lllllllllllllll  tibor@TIBOR-LAPTOP
  lllllllllllllll   lllllllllllllll  ------------------
