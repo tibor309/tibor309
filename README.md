@@ -68,21 +68,25 @@ I'm a computer scientist from hungary.  Yes, i'm a furry. Im trying to learn pro
   
 ### Laptop
 ```text
- lllllllllllllll   lllllllllllllll  tibor@TIBOR-LAPTOP
- lllllllllllllll   lllllllllllllll  ------------------
- lllllllllllllll   lllllllllllllll  OS: Windows 11 Pro [64-bit]
- lllllllllllllll   lllllllllllllll  Host: LENOVO 82KU
- lllllllllllllll   lllllllllllllll  Kernel: 10.0.22621.0
- lllllllllllllll   lllllllllllllll  Motherboard: LENOVO LNVNB161216
- lllllllllllllll   lllllllllllllll  Uptime: 31 minutes
-                                    Packages: 1 (choco)
- lllllllllllllll   lllllllllllllll  Shell: PowerShell v5.1.22621.963
- lllllllllllllll   lllllllllllllll  Resolution: 1920x1080
- lllllllllllllll   lllllllllllllll  Terminal: Windows Terminal
- lllllllllllllll   lllllllllllllll  CPU: AMD Ryzen 5 5500U with Radeon Graphics
- lllllllllllllll   lllllllllllllll  GPU: AMD Radeon(TM) Graphics
- lllllllllllllll   lllllllllllllll  Memory: 5,55 GiB / 5,85 GiB (94%)
- lllllllllllllll   lllllllllllllll  Disk (C:): 142 GiB / 236 GiB (60%)
+             .',;::::;,'.                tibor@tibor-laptop 
+         .';:cccccccccccc:;,.            ------------------ 
+      .;cccccccccccccccccccccc;.         OS: Fedora Linux 38 (Workstation Edition) x86_64 
+    .:cccccccccccccccccccccccccc:.       Host: 82KU IdeaPad 3 15ALC6 
+  .;ccccccccccccc;.:dddl:.;ccccccc;.     Kernel: 6.3.5-200.fc38.x86_64 
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:.    Uptime: 4 mins 
+.:ccccccccccccc;KMMc;cc;xMMc:ccccccc:.   Packages: 1993 (rpm), 32 (flatpak) 
+,cccccccccccccc;MMM.;cc;;WW::cccccccc,   Shell: bash 5.2.15 
+:cccccccccccccc;MMM.;cccccccccccccccc:   Resolution: 1920x1080 
+:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:   DE: GNOME 44.1 
+cccccc:0MMKxdd:;MMMkddc.;cccccccccccc;   WM: Mutter 
+ccccc:XM0';cccc;MMM.;cccccccccccccccc'   WM Theme: Adwaita 
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;    Theme: adw-gtk3 [GTK2/3] 
+ccccc;0MNc.ccc.xMMd:ccccccccccccccc;     Icons: Colloid-light [GTK2/3] 
+cccccc;dNMWXXXWM0::cccccccccccccc:,      Terminal: kgx 
+cccccccc;.:odl:.;cccccccccccccc:,.       CPU: AMD Ryzen 5 5500U with Radeon Graphics (12) @ 2.100GHz 
+:cccccccccccccccccccccccccccc:'.         GPU: AMD ATI 03:00.0 Lucienne 
+.:cccccccccccccccccccccc:;,..            Memory: 3407MiB / 17814MiB 
+  '::cccccccccccccc::;,.
 ```  
 
 </details>
@@ -94,16 +98,5 @@ I'm a computer scientist from hungary.  Yes, i'm a furry. Im trying to learn pro
 <!---
 links:
 --->
-[twitter]: https://twitter.com/tibor309
-[steam]: https://steamcommunity.com/id/tibor309
-[discord]: https://discord.com/channels/@me/711906232956616745
-[spotify]: https://open.spotify.com/user/11147307035?si=01e35e0ff9ed4370
-[ref]: https://refsheet.net/Tibor
-
-[vscode]: https://code.visualstudio.com/
-[py]: https://www.python.org/
-[dpy]: https://discordpy.readthedocs.io/en/stable/index.html
-[linux]: https://hu.wikipedia.org/wiki/Linux
-[replit]: https://replit.com
 
 [funny]: https://cdn.discordapp.com/emojis/433676845230325780.gif
