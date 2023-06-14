@@ -3,20 +3,17 @@
 I'm a computer scientist from hungary.  Yes, i'm a furry. Im trying to learn programming and messing with linux and all kinds of tech in my free time. I play a lot of tf2. Most of the time i'm online, if you wanna chat.
 
 <div id="badges", align="center">
-  <a href="https://replit.com/@Tibor309">
-    <img src="https://img.shields.io/badge/Replit-F26207.svg?style=flat&logo=Replit&logoColor=white" alt="Replit Badge"/>
+  <a href="https://twitter.com/tibor309">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://furry.engineer/@tibor">
     <img src="https://img.shields.io/badge/Mastodon-5d51e8?style=flat&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
   </a>
-  <a href="https://twitter.com/tibor309">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://discord.com/users/350619049404792832">
+    <img src="https://img.shields.io/badge/Discord-5662f6?style=flat&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://steamcommunity.com/id/tibor309">
     <img src="https://img.shields.io/badge/Steam-%23000000?style=flat&logo=steam" alt="Steam Badge"/>
-  </a>
-  <a href="https://discord.com/channels/@me/711906232956616745">
-    <img src="https://img.shields.io/badge/Discord-5662f6?style=flat&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://open.spotify.com/user/11147307035?si=01e35e0ff9ed4370">
     <img src="https://img.shields.io/badge/Spotify-1DB954.svg?style=flat&logo=Spotify&logoColor=white" alt="Spotify Badge"/>
@@ -73,8 +70,8 @@ I'm a computer scientist from hungary.  Yes, i'm a furry. Im trying to learn pro
       .;cccccccccccccccccccccc;.         OS: Fedora Linux 38 (Workstation Edition) x86_64 
     .:cccccccccccccccccccccccccc:.       Host: 82KU IdeaPad 3 15ALC6 
   .;ccccccccccccc;.:dddl:.;ccccccc;.     Kernel: 6.3.5-200.fc38.x86_64 
- .:ccccccccccccc;OWMKOOXMWd;ccccccc:.    Uptime: 4 mins 
-.:ccccccccccccc;KMMc;cc;xMMc:ccccccc:.   Packages: 1993 (rpm), 32 (flatpak) 
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:.    Uptime: 8 hours, 38 mins 
+.:ccccccccccccc;KMMc;cc;xMMc:ccccccc:.   Packages: 1934 (rpm), 56 (flatpak) 
 ,cccccccccccccc;MMM.;cc;;WW::cccccccc,   Shell: bash 5.2.15 
 :cccccccccccccc;MMM.;cccccccccccccccc:   Resolution: 1920x1080 
 :ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:   DE: GNOME 44.1 
@@ -85,7 +82,7 @@ ccccc;0MNc.ccc.xMMd:ccccccccccccccc;     Icons: Colloid-light [GTK2/3]
 cccccc;dNMWXXXWM0::cccccccccccccc:,      Terminal: kgx 
 cccccccc;.:odl:.;cccccccccccccc:,.       CPU: AMD Ryzen 5 5500U with Radeon Graphics (12) @ 2.100GHz 
 :cccccccccccccccccccccccccccc:'.         GPU: AMD ATI 03:00.0 Lucienne 
-.:cccccccccccccccccccccc:;,..            Memory: 3407MiB / 17814MiB 
+.:cccccccccccccccccccccc:;,..            Memory: 4517MiB / 17814MiB 
   '::cccccccccccccc::;,.
 ```  
 
