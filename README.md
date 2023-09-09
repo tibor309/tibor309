@@ -1,11 +1,8 @@
 ## Hi, i'm tibor
 
-I'm a computer scientist from hungary.  Yes, i'm a furry. Im trying to learn programming and messing with linux and all kinds of tech in my free time. I play a lot of tf2. Most of the time i'm online, if you wanna chat.
+I'm a computer scientist from hungary. I usually listen to music, messing with linux, and talking to friends. I maily code discord bots, and experiment in vms. Most of the time i'm online if you wanna chat.
 
 <div id="badges", align="center">
-  <a href="https://twitter.com/tibor309">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <a href="https://furry.engineer/@tibor">
     <img src="https://img.shields.io/badge/Mastodon-5d51e8?style=flat&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
   </a>
@@ -14,9 +11,6 @@ I'm a computer scientist from hungary.  Yes, i'm a furry. Im trying to learn pro
   </a>
   <a href="https://steamcommunity.com/id/tibor309">
     <img src="https://img.shields.io/badge/Steam-%23000000?style=flat&logo=steam" alt="Steam Badge"/>
-  </a>
-  <a href="https://open.spotify.com/user/11147307035?si=01e35e0ff9ed4370">
-    <img src="https://img.shields.io/badge/Spotify-1DB954.svg?style=flat&logo=Spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
 </div>
 
