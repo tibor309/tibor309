@@ -3,20 +3,23 @@
 I'm a computer scientist from hungary. I usually listen to music, messing with linux, and talking to friends. I maily code discord bots, and experiment in vms. Most of the time i'm online if you wanna chat.
 
 <div id="badges", align="center">
+  <a href="https://replit.com/@Tibor309">
+    <img src="https://img.shields.io/badge/replit-313244?style=for-the-badge&logo=replit&logoColor=cdd6f4" alt="Replit Badge"/>
+  </a>
   <a href="https://furry.engineer/@tibor">
-    <img src="https://img.shields.io/badge/Mastodon-5d51e8?style=flat&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
+    <img src="https://img.shields.io/badge/mastodon-313244?style=for-the-badge&logo=mastodon&logoColor=cdd6f4" alt="Mastodon Badge"/>
   </a>
   <a href="https://discord.com/users/350619049404792832">
-    <img src="https://img.shields.io/badge/Discord-5662f6?style=flat&logo=discord&logoColor=white" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/discord-313244?style=for-the-badge&logo=discord&logoColor=cdd6f4" alt="Discord Badge"/>
   </a>
   <a href="https://steamcommunity.com/id/tibor309">
-    <img src="https://img.shields.io/badge/Steam-%23000000?style=flat&logo=steam" alt="Steam Badge"/>
+    <img src="https://img.shields.io/badge/steam-313244?style=for-the-badge&logo=steam&logoColor=cdd6f4" alt="Steam Badge"/>
   </a>
   <a href="https://toyhou.se/tibor">
-    <img src="https://img.shields.io/badge/Toyhouse-008cba?&style=flat&logo=Toyhouse" alt="Toyhouse Badge"/>
+    <img src="https://img.shields.io/badge/toyhouse-313244?style=for-the-badge&logo=toyhouse&logoColor=cdd6f4" alt="Toyhouse Badge"/>
   </a>
   <a href="https://refsheet.net/Tibor">
-    <img src="https://img.shields.io/badge/Refsheet-1dbcad?&style=flat&logo=Refsheet" alt="Refsheet Badge"/>
+    <img src="https://img.shields.io/badge/refsheet-313244?style=for-the-badge&logo=refsheet&logoColor=cdd6f4" alt="Refsheet Badge"/>
   </a>
 </div>
 
