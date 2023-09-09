@@ -2,6 +2,8 @@
 
 I'm a computer scientist from hungary. I usually listen to music, messing with linux, and talking to friends. I maily code discord bots, and experiment in vms. Most of the time i'm online if you wanna chat.
 
+<br>
+
 <div id="badges", align="center">
   <a href="https://replit.com/@Tibor309">
     <img src="https://img.shields.io/badge/replit-313244?style=for-the-badge&logo=replit&logoColor=cdd6f4" alt="Replit Badge"/>
@@ -23,16 +25,9 @@ I'm a computer scientist from hungary. I usually listen to music, messing with l
   </a>
 </div>
 
-<br/>
-
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Tibor309&theme=react&hide_border=true&count_private=true)][funny]
-[![](https://github-readme-stats.vercel.app/api?username=tibor309&theme=react&hide_border=true&include_all_commits=false&count_private=false&hide_rank=true&show_icons=true)][funny]
-<br/>
-  
-
-
-<!---
-links:
---->
-
-[funny]: https://cdn.discordapp.com/emojis/433676845230325780.gif
+<br>
+<div id="stats", align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tibor309&hide_border=true&background=313244&ring=CDD6F4&fire=CDD6F4&sideLabels=BAC2DE&sideNums=CDD6F4&currStreakNum=CDD6F4&currStreakLabel=CDD6F4&dates=A6ADC8&stroke=585B70&count_private=true" alt="Streak stats/">
+  <img src="https://github-readme-stats.vercel.app/api?username=tibor309&&hide_border=true&hide_rank=true&show_icons=true&bg_color=313244&title_color=cdd6f4&icon_color=cdd6f4&text_color=a6adc8&count_private=true" alt="Stats"/>
+</div>
+<br>
