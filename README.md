@@ -11,8 +11,8 @@ I'm a computer scientist from hungary. I usually listen to music, messing with l
   <a href="https://furry.engineer/@tibor">
     <img src="https://img.shields.io/badge/mastodon-313244?style=for-the-badge&logo=mastodon&logoColor=cdd6f4" alt="Mastodon Badge"/>
   </a>
-  <a href="https://discord.com/users/350619049404792832">
-    <img src="https://img.shields.io/badge/discord-313244?style=for-the-badge&logo=discord&logoColor=cdd6f4" alt="Discord Badge"/>
+  <a href="https://t.me/tibor309">
+    <img src="https://img.shields.io/badge/telegram-313244?style=for-the-badge&logo=telegram&logoColor=cdd6f4" alt="Telegram Badge"/>
   </a>
   <a href="https://steamcommunity.com/id/tibor309">
     <img src="https://img.shields.io/badge/steam-313244?style=for-the-badge&logo=steam&logoColor=cdd6f4" alt="Steam Badge"/>
