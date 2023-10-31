@@ -1,6 +1,6 @@
 ## Hi, i'm tibor
 
-I'm a computer scientist from hungary. I usually listen to music, messing with linux, and talking to friends. I maily code discord bots, and experiment in vms. Most of the time i'm online if you wanna chat.
+I'm a computer scientist from hungary. I maily code discord bots, and experiment in vms in my free time. I also like listening to music, messing with linux, playing tf2, and talking to friends.
 
 <br>
 
