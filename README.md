@@ -1,6 +1,6 @@
 ## Hi, i'm tibor
 
-I'm a computer scientist from hungary. I maily code discord bots, and experiment in vms in my free time. I also like listening to music, messing with linux, playing tf2, and talking to friends.
+I'm a computer scientist from hungary. I like to tinker with software, and code time to time. I also like listening to music, messing with linux, playing tf2, and talking to friends.
 
 <br>
 
@@ -20,7 +20,7 @@ I'm a computer scientist from hungary. I maily code discord bots, and experiment
   <a href="https://toyhou.se/tibor">
     <img src="https://img.shields.io/badge/toyhouse-313244?style=for-the-badge&logo=toyhouse&logoColor=cdd6f4" alt="Toyhouse Badge"/>
   </a>
-  <a href="https://refsheet.net/Tibor">
+  <a href="https://tibor.is-a.dev/refs/dark">
     <img src="https://img.shields.io/badge/refsheet-313244?style=for-the-badge&logo=refsheet&logoColor=cdd6f4" alt="Refsheet Badge"/>
   </a>
 </div>
