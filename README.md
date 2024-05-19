@@ -1,33 +1,25 @@
-## Hi, i'm tibor
+# 🐺 Hi, I'm Tibor
 
-I'm a computer scientist from hungary. I like to tinker with software, and code time to time. I also like listening to music, messing with linux, playing tf2, and talking to friends.
+I'm a computer scientist from hungary. I'm interested in virtualization, docker, linux, tinkering with software, and coding. I usually only play tf2, gmod, and minecraft. If you need me, hit me up on discord!
 
-<br>
 
-<div id="badges", align="center">
-  <a href="https://replit.com/@Tibor309">
-    <img src="https://img.shields.io/badge/replit-313244?style=for-the-badge&logo=replit&logoColor=cdd6f4" alt="Replit Badge"/>
-  </a>
-  <a href="https://furry.engineer/@tibor">
-    <img src="https://img.shields.io/badge/mastodon-313244?style=for-the-badge&logo=mastodon&logoColor=cdd6f4" alt="Mastodon Badge"/>
-  </a>
-  <a href="https://t.me/tibor309">
-    <img src="https://img.shields.io/badge/telegram-313244?style=for-the-badge&logo=telegram&logoColor=cdd6f4" alt="Telegram Badge"/>
-  </a>
-  <a href="https://steamcommunity.com/id/tibor309">
-    <img src="https://img.shields.io/badge/steam-313244?style=for-the-badge&logo=steam&logoColor=cdd6f4" alt="Steam Badge"/>
-  </a>
-  <a href="https://toyhou.se/tibor">
-    <img src="https://img.shields.io/badge/toyhouse-313244?style=for-the-badge&logo=toyhouse&logoColor=cdd6f4" alt="Toyhouse Badge"/>
-  </a>
-  <a href="https://tibor.is-a.dev/refs/dark">
-    <img src="https://img.shields.io/badge/refsheet-313244?style=for-the-badge&logo=refsheet&logoColor=cdd6f4" alt="Refsheet Badge"/>
-  </a>
-</div>
-
+<!-- GitHub stats -->
 <br>
 <div id="stats", align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tibor309&hide_border=true&background=313244&ring=CDD6F4&fire=CDD6F4&sideLabels=BAC2DE&sideNums=CDD6F4&currStreakNum=CDD6F4&currStreakLabel=CDD6F4&dates=A6ADC8&stroke=585B70&count_private=false" alt="Streak stats/">
-  <img src="https://github-readme-stats.vercel.app/api?username=tibor309&&hide_border=true&hide_rank=true&show_icons=true&bg_color=313244&title_color=cdd6f4&icon_color=cdd6f4&text_color=a6adc8&count_private=false" alt="Stats"/>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com?user=tibor309&theme=catppuccin-mocha&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_current_streak=false" alt="GitHub Streak" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=tibor309&theme=catppuccin_mocha&hide_border=false&hide_rank=true&show_icons=true&count_private=true" alt="Stats"/>
 </div>
 <br>
+
+<!-- Favorite projects -->
+<details open> 
+    <summary><h3>Favorite projects</h3></summary>
+    <div id="favorite-projects", align="center">
+        <a href="https://github.com/tibor309/code-tunnel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tibor309&repo=code-tunnel&theme=catppuccin_mocha&description_lines_count=1" alt="code-tunnel"></a>
+        <a href="https://github.com/linuxserver/docker-firefox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=linuxserver&repo=docker-firefox&theme=catppuccin_mocha&description_lines_count=1" alt="docker-firefox"></a>
+        <a href="https://github.com/coollabsio/coolify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coollabsio&repo=coolify&theme=catppuccin_mocha&description_lines_count=1" alt="coolify"></a>
+        <a href="https://github.com/ChrisTitusTech/winutil"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisTitusTech&repo=winutil&theme=catppuccin_mocha&description_lines_count=1" alt="winutil"></a>
+        <a href="https://github.com/IceWhaleTech/CasaOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=IceWhaleTech&repo=CasaOS&theme=catppuccin_mocha&description_lines_count=1" alt="casaos"></a>
+        <a href="https://github.com/catppuccin/catppuccin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=catppuccin&repo=catppuccin&theme=catppuccin_mocha&description_lines_count=1" alt="catppuccin"></a>
+    </div>
+</details>
