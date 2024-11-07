@@ -5,9 +5,7 @@ I'm a computer scientist from hungary. I'm interested in virtualization, docker,
 ## 🌐 Socials
 
 <a href="https://gitlab.com/Tibor309"><img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white" alt="GitLab Badge" ></a>
-<a href="https://discord.com/users/350619049404792832"><img src="https://img.shields.io/badge/Tibor309-2c2f33.svg?style=for-the-badge&logo=Discord&logoColor=white&label=Discord&labelColor=5865F2" alt="Discord Badge"></a>
 <a href="https://bsky.app/profile/tibor309.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=white" alt="Bluesky Badge"></a>
-<a href="https://furry.engineer/@tibor"><img src="https://img.shields.io/badge/Mastodon-6364FF.svg?style=for-the-badge&logo=Mastodon&logoColor=white" alt="Mastodon Badge"></a>
 <a href="https://ko-fi.com/tibor309"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B.svg?style=for-the-badge&logo=Ko-fi&logoColor=white" alt="Ko-Fi Badge"></a>
 
 ## 🤓 GitHub Stats
