@@ -1,6 +1,6 @@
 ## 🐺 About me
 
-I'm a computer scientist from hungary. I'm interested in virtualization, docker, linux, tinkering with software, and coding. I usually only play tf2, gmod, and minecraft. If you need me, hit me up on discord!
+I'm a computer scientist from hungary. I'm still in uni studying computer science engineering! My projects mostly use docker and linux. what should i put in here idk. If you need me for some reason, hit me up on one of the links below.
 
 ## 🌐 Socials
 
